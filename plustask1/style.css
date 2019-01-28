@@ -1,0 +1,29 @@
+.menu {
+    list-style: none;
+  
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: blueviolet;
+}
+
+.block {
+    width: 470px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+}
+.first_headline {
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.headline {
+font-size: 30px
+}
