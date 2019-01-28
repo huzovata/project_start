@@ -2,15 +2,38 @@
 html {
     scroll-behavior: smooth;
 }
-#text {
-    color: royalblue}
 
-p{color: black}
-
-.link:hover {
-    color: chartreuse
+.menu {
+    list-style: none;
 }
 
 .link {
-    color: red
+    text-decoration: none;
+    font-family: Playfair Display, serif;
+    color: #626262;
+    text-transform: uppercase;
 }
+
+.link:hover {
+    color: #03a9f4;
+}
+
+.list {
+    list-style: none;
+}
+
+.stories {
+    font-family: Playfair Display, serif;
+    color: #626262;
+}
+
+.first_headline {
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.headline {
+    font-weight: 400;
+    }
