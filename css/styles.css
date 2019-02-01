@@ -33,7 +33,7 @@ header {
 }
 
 .container {
-    margin-bottom: 135px;
+    margin-bottom: 90px;
 }
 
 img {
@@ -90,4 +90,17 @@ img {
 
 .list .blocks:nth-last-child(-n +2) {
     margin-bottom: 0px;
+}
+
+.theend {
+    margin: 0 auto;
+}
+
+.button {
+    width: 165px;
+    height: 45px;
+    font-family: Playfair Display, serif;
+    font-size: 20px;
+    color: #626262;
+    box-sizing: border-box;
 }
